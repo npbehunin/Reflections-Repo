@@ -1,0 +1,20 @@
+# XGen Description Preset File for Grooming Settings
+
+# Author:   npbeh
+# Date:     2020/08/04 16:25:32
+
+FileVersion 1
+
+groom_Tree_Leaves_01
+	xuvDir			string			None
+	baseColor		float3			0.467000007629	0.312999993563	0.310000002384
+	displayType		long			0
+	tipColor		float3			0.921000003815	0.833000004292	0.0170000009239
+	interpStyle		long			0
+	density			float			150.0
+	mask			string			1.0
+	visibility		bool			True
+	width			float			0.189172551036
+	length			float			0.236215680838
+	igAutoExportTpu		float			5.0
+	endAttrs
